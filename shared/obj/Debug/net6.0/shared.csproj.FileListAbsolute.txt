@@ -1,0 +1,24 @@
+C:\Users\lenovo\source\repos\Microservices\shared\bin\Debug\net6.0\shared.deps.json
+C:\Users\lenovo\source\repos\Microservices\shared\bin\Debug\net6.0\shared.dll
+C:\Users\lenovo\source\repos\Microservices\shared\bin\Debug\net6.0\shared.pdb
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.dll
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\refint\shared.dll
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\shared.pdb
+C:\Users\lenovo\source\repos\Microservices\shared\obj\Debug\net6.0\ref\shared.dll
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\bin\Debug\net6.0\shared.deps.json
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\bin\Debug\net6.0\shared.dll
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\bin\Debug\net6.0\shared.pdb
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.csproj.AssemblyReference.cache
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.AssemblyInfoInputs.cache
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.AssemblyInfo.cs
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.csproj.CoreCompileInputs.cache
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.dll
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\refint\shared.dll
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\shared.pdb
+D:\00000\LTI\2LTI sem2\.net\Microservices\shared\obj\Debug\net6.0\ref\shared.dll
